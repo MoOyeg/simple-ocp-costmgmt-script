@@ -1,0 +1,4 @@
+OPENSHIFT_PROJECT=Test
+#https://access.redhat.com/articles/3626371#bgenerating-an-access-tokenb-4
+OFFLINE_TOKEN=token
+KUBECONFIG=/root/kubeconfig-test
