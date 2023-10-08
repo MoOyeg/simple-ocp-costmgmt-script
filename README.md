@@ -1,7 +1,9 @@
-# simple-ocp-costmgmt-script
-Simple OCP CostMgmt Use Cases
-Repo to eventually provide a series of ancillary OCP costmgmt use cases
-At the movememnt provides a simple script to help pull data from OCP costmgmt and label cluster projects with the cost of that specific project
+# simple-ocp-costmgmt-script  
+
+Simple OCP CostMgmt Use Cases.  
+Repo to eventually provide a series of ancillary OCP costmgmt use cases.  
+
+At the moment provides a simple script to help pull data from OCP costmgmt and label cluster projects with the cost of that specific project
 
 ## Requirements
 - Python 3.10
